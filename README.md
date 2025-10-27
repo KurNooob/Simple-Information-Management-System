@@ -53,8 +53,8 @@ The system uses **MySQL** as the database.
 
 To import the database:
 1. Open **phpMyAdmin**
-2. Create a new database (e.g. `hotel_db`)
-3. Import the file:  
+2. Create a new database
+3. Import the file: `hotel.sql`
 
 ## Screenshots
 
